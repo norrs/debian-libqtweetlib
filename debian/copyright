@@ -1,0 +1,11 @@
+Format: http://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
+Upstream-Name: libqtweetlib
+Source: https://github.com/minimoog/QTweetLib
+
+Files: *
+Copyright: 2013 Toni Jovanoski
+License: Apache-2.0
+
+Files: debian/*
+Copyright: 2013 Roy Sindre Norangshol (Rockj) <roy.sindre@norangshol.no>
+License: Apache-2.0
